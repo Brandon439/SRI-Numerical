@@ -1,3 +1,3 @@
 # SRI-Numerical
 
-Numerical techniques implemented for an SRI project at Cal Poly
+Numerical techniques implemented for Cal Poly's SRI Data Science project.
